@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile>
+<Artist>
+  <name> Sad Man </name>
+  <country> Thailand </country>
+  <company> GMM </company>
+  <album name = "Very Sad" year = "2017">
+    <song name = "broken heart" id = "1" length = "30" melody = "TJ" lyrics = "Udom"></song>
+    <song name = "betray"  id = "2" length = "10" melody = "lin" lyrics = "Somchai"></song>
+  </album>
+  <award name = "best song">
+    <description> best song in 2016 </description>
+  </award>
+</Artist>
+<Artist>
+  <name> Good Man </name>
+  <country> UK </country>
+  <company> GMB </company>
+  <album name = "Very Sad" year = "2017">
+    <song name = "broken heart" id = "1" length = "30" melody = "TJ" lyrics = "Udom"></song>
+    <song name = "betray"  id = "2" length = "10" melody = "lin" lyrics = "Somchai"></song>
+  </album>
+  <award name = "best song">
+    <description> best song in 2017 </description>
+    <description> best song in 2018 </description>
+  </award>
+</Artist>
+<Artist>
+  <name> Lazy Man </name>
+  <country> USA </country>
+  <company> GMA </company>
+  <album name = "Very Sad" year = "2017">
+    <song name = "broken heart" id = "1" length = "30" melody = "TJ" lyrics = "Udom"></song>
+    <song name = "betray"  id = "2" length = "10" melody = "lin" lyrics = "Somchai"></song>
+    <song name = "byebye"  id = "3" length = "100" melody = "lin" lyrics = "Somchai"></song>
+  </album>
+  <award name = "best song">
+    <description> best song in 2015 </description>
+    <description> best song in 2999 </description>
+  </award>
+</Artist>
+</Profile>
+
